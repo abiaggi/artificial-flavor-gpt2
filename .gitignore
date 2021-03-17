@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Files Generated from Project
-jsons/
+json/
+out/
